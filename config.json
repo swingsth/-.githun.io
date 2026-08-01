@@ -2,5 +2,8 @@
     "title":"温余的博客",
     "subTitle":"更新各种东西，欢迎来看",
     "avatarUrl":"https://avatars.githubusercontent.com/u/310887679?v=4&size=64",
+    "startSite":"07/28/2026",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
